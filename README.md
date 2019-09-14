@@ -46,10 +46,10 @@ display: inline - this kind of element doesn't necessarily take up the fill widt
 
 These four areas are layered. From innermost to outermost:
 
-a. content - innermost
-b. padding
-c. border
-d. margin - outermost
+* content - innermost
+* padding
+* border
+* margin - outermost
 
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
